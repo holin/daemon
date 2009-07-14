@@ -1,0 +1,103 @@
+# Logfile created on Fri Jul 10 19:21:49 +0800 2009 by /
+I, [2009-07-10T19:21:49.655503 #23816]  INFO -- : *** below you find the most recent exception thrown, this will be likely (but not certainly) the exception that made the application exit abnormally ***
+E, [2009-07-10T19:21:49.655671 #23816] ERROR -- : CRASH! (RuntimeError)
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:13
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6:in `loop'
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `start_load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:257:in `start'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/controller.rb:69:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:141:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `call'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:140:in `run'
+ctrl_crash.rb:17
+I, [2009-07-10T19:21:49.655781 #23816]  INFO -- : *** below you find all exception objects found in memory, some of them may have been thrown in your application, others may just be in memory because they are standard exceptions ***
+E, [2009-07-10T19:21:49.656083 #23816] ERROR -- : failed to allocate memory (NoMemoryError)
+
+E, [2009-07-10T19:21:49.656148 #23816] ERROR -- : stack level too deep (SystemStackError)
+
+E, [2009-07-10T19:21:49.656223 #23816] ERROR -- : exception reentered (fatal)
+
+E, [2009-07-10T19:21:49.658317 #23816] ERROR -- : CRASH! (RuntimeError)
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:13
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6:in `loop'
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `start_load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:257:in `start'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/controller.rb:69:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:141:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `call'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:140:in `run'
+ctrl_crash.rb:17
+I, [2009-07-10T19:21:53.041580 #23819]  INFO -- : *** below you find the most recent exception thrown, this will be likely (but not certainly) the exception that made the application exit abnormally ***
+E, [2009-07-10T19:21:53.042123 #23819] ERROR -- : CRASH! (RuntimeError)
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:13
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6:in `loop'
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `start_load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:257:in `start'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/controller.rb:69:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:141:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `call'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:140:in `run'
+ctrl_crash.rb:17
+I, [2009-07-10T19:21:53.042251 #23819]  INFO -- : *** below you find all exception objects found in memory, some of them may have been thrown in your application, others may just be in memory because they are standard exceptions ***
+E, [2009-07-10T19:21:53.042474 #23819] ERROR -- : failed to allocate memory (NoMemoryError)
+
+E, [2009-07-10T19:21:53.042538 #23819] ERROR -- : stack level too deep (SystemStackError)
+
+E, [2009-07-10T19:21:53.042605 #23819] ERROR -- : exception reentered (fatal)
+
+E, [2009-07-10T19:21:53.045732 #23819] ERROR -- : CRASH! (RuntimeError)
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:13
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6:in `loop'
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `start_load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:257:in `start'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/controller.rb:69:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:141:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `call'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:140:in `run'
+ctrl_crash.rb:17
+I, [2009-07-10T19:22:01.975929 #23824]  INFO -- : *** below you find the most recent exception thrown, this will be likely (but not certainly) the exception that made the application exit abnormally ***
+E, [2009-07-10T19:22:01.976446 #23824] ERROR -- : CRASH! (RuntimeError)
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:13
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6:in `loop'
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `start_load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:257:in `start'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/controller.rb:69:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:141:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `call'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:140:in `run'
+ctrl_crash.rb:17
+I, [2009-07-10T19:22:01.976543 #23824]  INFO -- : *** below you find all exception objects found in memory, some of them may have been thrown in your application, others may just be in memory because they are standard exceptions ***
+E, [2009-07-10T19:22:01.976728 #23824] ERROR -- : failed to allocate memory (NoMemoryError)
+
+E, [2009-07-10T19:22:01.976787 #23824] ERROR -- : stack level too deep (SystemStackError)
+
+E, [2009-07-10T19:22:01.976889 #23824] ERROR -- : exception reentered (fatal)
+
+E, [2009-07-10T19:22:01.978871 #23824] ERROR -- : CRASH! (RuntimeError)
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:13
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6:in `loop'
+/Users/holin/Downloads/Applications/daemons-1.0.10/examples/run/myserver_crashing.rb:6
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:176:in `start_load'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/application.rb:257:in `start'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/controller.rb:69:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:141:in `run'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `call'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons/cmdline.rb:105:in `catch_exceptions'
+/Users/holin/Downloads/Applications/daemons-1.0.10/lib/daemons.rb:140:in `run'
+ctrl_crash.rb:17
